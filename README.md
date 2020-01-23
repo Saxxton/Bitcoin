@@ -1,2 +1,2 @@
-# Grading
-This is a student grading system that I've done at the university using js, html and css
+# Bitcoin
+A system that enables users to make fake transaction between eachother. This was made as a part of a school project using python
